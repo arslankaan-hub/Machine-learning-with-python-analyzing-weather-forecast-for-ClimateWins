@@ -44,6 +44,10 @@ By addressing key questions such as how accurately weather can be classified, wh
 
 -Model Evaluation
 
+*05 Sent to Client*
+
+-Powerpoint presentation of project
+
 # Code Overview
 
 **pandas** – Data cleaning, merging and preprocessing
