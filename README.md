@@ -46,17 +46,37 @@ By addressing key questions such as how accurately weather can be classified, wh
 
 # Code Overview
 
-**pandas** – Data cleaning, merging and preprocessing
+**pandas** – Data loading, cleaning and manipulation
 
-**numpy** – Numerical computations
+**numpy** – Numerical computations and array operations
 
-**matplotlib** – Visualisation of weights, loss and classification outputs
+**seaborn** – Statistical visualisations
 
-**seaborn** – Statistical plots
+**matplotlib.pyplot** – Plotting loss curves, accuracy charts and confusion matrices
 
-**scikit-learn** – KNN, Decision Tree, ANN, metrics and model evaluation
+**os / operator** – File handling and utility functions
 
-**scipy**– Additional scientific calculations
+**scipy** – Scientific operations used in preprocessing or calculations
+
+**scikit-learn modules used**
+
+**datasets** – Importing sample structures when needed
+
+**metrics** – Accuracy scoring and evaluation
+
+**multilabel_confusion_matrix, confusion_matrix, ConfusionMatrixDisplay – Model performance assessment**
+
+**accuracy_score** – Classification accuracy measurement
+
+**KNeighborsClassifier** – k-Nearest Neighbour model
+
+**DecisionTreeClassifier** – Decision Tree model
+
+**MultiOutputClassifier** – Handling multi-output targets
+
+**train_test_split, cross_val_score – Model validation tools**
+
+**figure** – Plot structure and layout control
 
 # Disclaimer
 
