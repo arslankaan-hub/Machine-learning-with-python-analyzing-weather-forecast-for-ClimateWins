@@ -20,7 +20,7 @@ By addressing key questions such as how accurately weather can be classified, wh
 
 *01 Project Management* – Contains the project brief.
 
-*02 Data* – Includes:
+*02 Data* – ( Data is not uploaded due to size issues) Includes:
 
 'Original Data': Raw CSV climate datasets from ECA&D.
 
