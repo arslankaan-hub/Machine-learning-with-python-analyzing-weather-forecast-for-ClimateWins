@@ -16,10 +16,6 @@ By addressing key questions such as how accurately weather can be classified, wh
 
 -Which supervised learning algorithms perform best on this dataset?
 
--How do regional and seasonal differences affect model accuracy?
-
--What limitations arise from station-level bias or data imbalance?
-
 ## Folders
 
 *01 Project Management* – Contains the project brief.
